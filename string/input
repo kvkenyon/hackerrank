@@ -1,0 +1,14 @@
+10 3
+<tag1 value = "HelloWorld" key2 = "value2" key3="value3">
+<tag2 name = "Name1">
+</tag2>
+<tag3>
+<tag4>
+</tag4>
+<tag5 key1 = "asdf" key2 = "adf223">
+</tag5>
+</tag3>
+</tag1>
+tag1.tag2~name
+tag1~name
+tag1~value
